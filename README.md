@@ -9,5 +9,5 @@ Tkinter is the standard Python interface to the Tk GUI toolkit. It allows you to
 - Open cmd
 - cd to the file
 - run `python calculator.py`
-- ### Preview
-- <img src='preview.png' alt='preview-img'>
+### Preview
+<img src='preview.png' alt='preview-img'>
